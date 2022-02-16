@@ -27,6 +27,7 @@ char *get_token(char **ptr, int *status) {
 
 int main() {
     char *line = (char*) malloc(80);
+    char *baseline = line;
     size_t size = 80;
     int ret;  
     printf("Enter a line of input\n");
@@ -75,5 +76,6 @@ int main() {
       
     free(token);
     free(arr);
+    free(baseline);
     return 0; 
 }
