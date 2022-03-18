@@ -7,7 +7,7 @@ int main(int argc, char **argv)
 {
   int i = argc;  /* index into array argv[] */
   while (i--) {
-    printf("\%s ", argv[i]);
+    printf("%s ", argv[i]);
   }
   printf("\n");
 
