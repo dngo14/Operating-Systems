@@ -1,11 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
-#include <ctype.h>
 #include <fcntl.h>
 #include <sys/stat.h>  
 #include <sys/types.h>
-#include <cstdlib>
 
 int main(int argc, char **argv, char **envp) {
   char *array = (char*) malloc(20); 

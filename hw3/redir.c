@@ -5,7 +5,6 @@
 #include <fcntl.h>
 #include <sys/stat.h>  
 #include <sys/types.h>
-#include <cstdlib>
 
 int main(int argc, char **argv, char **envp) {
   char *array = (char*) malloc(20); 
