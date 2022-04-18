@@ -1,0 +1,4 @@
+-rw-r--r-- 1 root root   162480 Apr 17 21:11 /boot/config-5.15.33
+-rw-r--r-- 1 root root 20110016 Apr 17 21:11 /boot/initrd.img-5.15.33
+-rw-r--r-- 1 root root  5756769 Apr 17 21:11 /boot/System.map-5.15.33
+-rw-r--r-- 1 root root  8701696 Apr 17 21:11 /boot/vmlinuz-5.15.33
