@@ -22,7 +22,7 @@ int main() {
     }
     printf("effective real user ID: %d\n", effectiveuserid);
 
-    if((effectivegroupid = getuid()) < 0) {
+    if((effectivegroupid = getegid()) < 0) {
         perror("getegid()");
         return -1;
     }
@@ -57,14 +57,5 @@ int main() {
         return -1;
     }
     //printf("effective real group ID: %d\n", effectivegroupid = getuid());
-
-
-
-    // int processid;
-    // if ((processid = getpid()) < 0) {
-    //     perror("getpid");
-    //     return -1;
-    // }
-    // printf("getpid() returned %d \n", processid);
 
 }
