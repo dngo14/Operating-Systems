@@ -1,0 +1,11 @@
+Files dist/linux-5.15.33/arch/x86/entry/syscalls/syscall_64.tbl and /home/ngo8/pp2-mkpatch/work/linux-5.15.33/arch/x86/entry/syscalls/syscall_64.tbl differ
+Only in /home/ngo8/pp2-mkpatch/work/linux-5.15.33: .config
+Only in /home/ngo8/pp2-mkpatch/work/linux-5.15.33: first.config
+Files dist/linux-5.15.33/fs/stat.c and /home/ngo8/pp2-mkpatch/work/linux-5.15.33/fs/stat.c differ
+Files dist/linux-5.15.33/include/linux/sched.h and /home/ngo8/pp2-mkpatch/work/linux-5.15.33/include/linux/sched.h differ
+Files dist/linux-5.15.33/kernel/sched/core.c and /home/ngo8/pp2-mkpatch/work/linux-5.15.33/kernel/sched/core.c differ
+Files dist/linux-5.15.33/kernel/sys.c and /home/ngo8/pp2-mkpatch/work/linux-5.15.33/kernel/sys.c differ
+Only in /home/ngo8/pp2-mkpatch/work/linux-5.15.33: Makefile.mkpatch
+Only in /home/ngo8/pp2-mkpatch/work/linux-5.15.33/tools/objtool/arch/x86: lib
+Only in /home/ngo8/pp2-mkpatch/work/linux-5.15.33/tools/objtool: fixdep
+Only in /home/ngo8/pp2-mkpatch/work/linux-5.15.33/tools/objtool: objtool
